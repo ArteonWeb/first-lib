@@ -1,0 +1,13 @@
+{
+  "name": "arteonweb",
+  "version": "1.0.0",
+  "repository": "",
+  "author": "Deniz Karataş <karatas.gun@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "compile": "rmdir /S /Q dist\\lib && mkdir dist\\lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

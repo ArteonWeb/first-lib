@@ -1,0 +1,30 @@
+{
+    "name": "@arte10/lib-test",
+    "version": "0.0.1",
+    "description": "A set of JavaScript utils",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "utils",
+      "utilities"
+    ],
+    "author": "Deniz Karataş",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ArteonWeb/lib-test/issues"
+    },
+    "homepage": "https://github.com/ArteonWeb/lib-test#readme"
+  }
