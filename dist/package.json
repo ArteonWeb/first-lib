@@ -1,6 +1,6 @@
 {
     "name": "@arte10/lib-test",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A set of JavaScript utils",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",
