@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@arte10/lib-test": "^0.0.1"
   }
 }
